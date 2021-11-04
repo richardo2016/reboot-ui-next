@@ -45,7 +45,7 @@ export default {
   },
   locales: [['zh-CN', '中文']],
   resolve: {
-    includes: ['docs', 'packages/kits/src', 'packages/orpheus-sdk/src'],
+    includes: ['docs', 'packages/kits/src', 'packages/hooks/src'],
   },
   links: [
     {
