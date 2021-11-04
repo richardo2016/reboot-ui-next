@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Button, KitThemeProvider } from '@richardo2016-ui-kits/kits';
+import { Button, KitThemeProvider } from '@reboot-ui/kits';
 
 import styled from 'styled-components';
 

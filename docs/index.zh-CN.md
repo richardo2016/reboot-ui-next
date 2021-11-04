@@ -33,10 +33,10 @@ footer: Open-source MIT Licensed | Copyright © 2021-present<br />Powered by [du
 
 ```bash
 // 安装依赖
-npm i @richardo2016-ui-kits/kits --save
+npm i @reboot-ui/kits --save
 
 // 使用 Hooks
-import { useRequest } from '@richardo2016-ui-kits/kits';
+import { useRequest } from '@reboot-ui/kits';
 ```
 
 ## 开发团队

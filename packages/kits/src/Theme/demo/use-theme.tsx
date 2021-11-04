@@ -11,7 +11,7 @@ import React from 'react';
 
 import { Radio } from 'antd';
 
-import { Button, KitThemeProvider } from '@richardo2016-ui-kits/kits';
+import { Button, KitThemeProvider } from '@reboot-ui/kits';
 
 import styled from 'styled-components';
 

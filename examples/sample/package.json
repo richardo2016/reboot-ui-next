@@ -1,16 +1,16 @@
 {
-  "name": "@richardo2016-ui-kits/sample",
+  "name": "@reboot-ui/sample",
   "private": true,
   "version": "0.1.0",
   "description": "sample package",
   "keywords": [
-    "richardo2016-ui-kits-sample",
+    "reboot-ui-sample",
     "react sample"
   ],
   "main": "./lib/index.js",
   "module": "./es/index.js",
   "types": "./lib/index.d.ts",
-  "unpkg": "dist/richardo2016-ui-kits-sample.js",
+  "unpkg": "dist/reboot-ui-sample.js",
   "sideEffects": false,
   "authors": {
     "name": "richardo2016",
@@ -19,8 +19,8 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
-  "repository": "https://github.com/richardo2016/ui-kits/tree/master/packages/sample",
-  "homepage": "https://github.com/richardo2016/ui-kits/tree/master/packages/sample",
+  "repository": "https://github.com/richardo2016/reboot-ui-next/tree/master/packages/sample",
+  "homepage": "https://github.com/richardo2016/reboot-ui-next/tree/master/packages/sample",
   "scripts": {
     "build": "gulp && webpack-cli"
   },

@@ -7,7 +7,7 @@
  */
 
 import React from 'react';
-import { useBoolean } from '@richardo2016-ui-kits/hooks';
+import { useBoolean } from '@reboot-ui/hooks';
 
 export default () => {
   const [state, { toggle, setTrue, setFalse }] = useBoolean(true);

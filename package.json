@@ -1,9 +1,9 @@
 {
-  "name": "richardo2016-ui-kits",
+  "name": "reboot-ui",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/richardo2016/ui-kits"
+    "url": "https://github.com/richardo2016/reboot-ui-next"
   },
   "scripts": {
     "init": "rm -rf node_modules && npm install && npm run clean && npm run bootstrap && npm run build",

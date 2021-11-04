@@ -1,10 +1,10 @@
-# richardo2016-ui-kits
+# reboot-ui
 
 Desktop Kits based on React/RxJS
 
 ## 📚 文档
 
-- [中文](https://richaro2016.github.io/ui-kits/)
+- [中文](https://richaro2016.github.io/reboot-ui-next/)
 
 ## ✨ 特性
 
@@ -17,14 +17,14 @@ Desktop Kits based on React/RxJS
 
 ```bash
 // 安装依赖
-npm i @richardo2016-ui-kits/kits --save
+npm i @reboot-ui/kits --save
 ```
 
 ## 🔨 使用
 
 ```
 // 使用 Hooks
-import { useRequest } from '@richardo2016-ui-kits/kits';
+import { useRequest } from '@reboot-ui/kits';
 ```
 
 ## 开发团队
@@ -49,8 +49,8 @@ import { useRequest } from '@richardo2016-ui-kits/kits';
 ## 🤝 参与贡献
 
 ```
-$ https://github.com/richardo2016/ui-kits
-$ cd ui-kits
+$ https://github.com/richardo2016/reboot-ui-next
+$ cd reboot-ui-next
 $ npm run init
 $ npm start
 ```
@@ -59,5 +59,5 @@ $ npm start
 
 ## ✅ License
 
-[1]: https://github.com/richardo2016/ui-kits
-[2]: https://registry.npmjs.org/package/@richardo2016-ui-kits/kits
+[1]: https://github.com/richardo2016/reboot-ui-next
+[2]: https://registry.npmjs.org/package/@reboot-ui/kits

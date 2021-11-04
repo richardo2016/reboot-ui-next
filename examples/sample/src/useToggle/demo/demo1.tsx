@@ -7,7 +7,7 @@
  */
 
 import React from 'react';
-import { useToggle } from '@richardo2016-ui-kits/hooks';
+import { useToggle } from '@reboot-ui/hooks';
 
 export default () => {
   const [state, { toggle }] = useToggle();

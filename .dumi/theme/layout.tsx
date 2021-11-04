@@ -54,7 +54,7 @@ const Layout: React.FC<IRouteComponentProps> = ({ children, location }) => {
 
   const tweakedRepository = {
     type: 'git',
-    dumiUrl: `https://github.com/richardo2016/ui-kits/-`,
+    dumiUrl: `https://github.com/richardo2016/reboot-ui-next/-`,
     branch: repository.branch,
     platform: 'gitlab',
   };

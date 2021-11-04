@@ -30,8 +30,8 @@ export default {
   logo: 'https://avatars.githubusercontent.com/u/6339390?v=4',
   ...(process.env.NODE_ENV === 'production'
     ? {
-        publicPath: '/ui-kits/',
-        base: '/ui-kits/',
+        publicPath: '/reboot-ui-next/',
+        base: '/reboot-ui-next/',
       }
     : {
         publicPath: '/',
@@ -58,7 +58,7 @@ export default {
       null,
       {
         title: 'Github',
-        path: 'https://github.com/richardo2016/ui-kits',
+        path: 'https://github.com/richardo2016/reboot-ui-next',
       },
     ],
   },

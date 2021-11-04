@@ -1,16 +1,16 @@
 {
-  "name": "@richardo2016-ui-kits/hooks",
+  "name": "@reboot-ui/hooks",
   "version": "0.1.1",
   "description": "react hooks library",
   "keywords": [
-    "richardo2016-ui-kits-hooks",
+    "reboot-ui-hooks",
     "umi hooks",
     "react hooks"
   ],
   "main": "./lib/index.js",
   "module": "./es/index.js",
   "types": "./lib/index.d.ts",
-  "unpkg": "dist/richardo2016-ui-kits-hooks.js",
+  "unpkg": "dist/reboot-ui-hooks.js",
   "sideEffects": false,
   "authors": {
     "name": "richardo2016",
@@ -19,8 +19,8 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
-  "repository": "https://github.com/richardo2016/ui-kits/tree/master/packages/hooks",
-  "homepage": "https://github.com/richardo2016/ui-kits/tree/master/packages/hooks",
+  "repository": "https://github.com/richardo2016/reboot-ui-next/tree/master/packages/hooks",
+  "homepage": "https://github.com/richardo2016/reboot-ui-next/tree/master/packages/hooks",
   "scripts": {
     "build": "gulp && webpack-cli"
   },

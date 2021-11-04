@@ -13,7 +13,7 @@ import { Radio } from 'antd';
 
 import { DefaultTheme, withTheme } from 'styled-components';
 
-import { KitThemeProvider } from '@richardo2016-ui-kits/kits';
+import { KitThemeProvider } from '@reboot-ui/kits';
 
 import styled, { css } from 'styled-components';
 import { LinedBlock, ColorText, ColorButton } from './components';

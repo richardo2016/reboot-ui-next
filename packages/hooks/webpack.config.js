@@ -5,8 +5,8 @@ const path = require('path');
 module.exports = merge(common, {
   entry: './es/index.js',
   output: {
-    filename: 'richardo2016-ui-kits-hooks.js',
-    library: 'richardo2016-ui-kits-hooks',
+    filename: 'reboot-ui-hooks.js',
+    library: 'reboot-ui-hooks',
     path: path.resolve(__dirname, './dist'),
   },
 });
